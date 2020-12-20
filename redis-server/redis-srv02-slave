@@ -1,0 +1,4 @@
+
+const server = new RedisServer({
+  conf: './redis-srv02.conf'
+});
